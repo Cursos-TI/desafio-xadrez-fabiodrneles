@@ -1,17 +1,4 @@
 #include <stdio.h>
-
-/**
- * @file desafio_xadrez_novato.c
- * @brief Desafio de Xadrez - Movimentando as Peças (Nível Novato)
- * @author Fabio D. Dorneles
- * @date 16/07/2025
- *
- * Este programa simula o movimento de três peças de xadrez: Torre, Bispo e Rainha.
- * Cada peça utiliza uma estrutura de repetição diferente (for, while, do-while)
- * para imprimir no console a direção de seu movimento a cada casa percorrida.
- * O objetivo é praticar o uso de loops em C.
- */
-
 // Constantes para definir o número de casas que cada peça irá se mover.
 // Usar constantes torna o código mais legível e fácil de modificar.
 #define MOVIMENTOS_TORRE 5
